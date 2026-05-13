@@ -101,7 +101,7 @@ _A Common-Sense Guide to Data Structures and Algorithms_ by **Jay Wengrow** is a
 
 - [x] Chapter 1 — Why Data Structures Matter
 - [x] Chapter 2 — Why Algorithms Matter
-- [ ] Chapter 3 — Big O Notation
+- [x] Chapter 3 — Big O Notation
 - [ ] Chapter 4 — Speeding Up Code with Big O
 - [ ] Chapter 5 — Optimizing Code With & Without Big O
 - [ ] Chapter 6 — Optimizing for Optimistic Scenarios
