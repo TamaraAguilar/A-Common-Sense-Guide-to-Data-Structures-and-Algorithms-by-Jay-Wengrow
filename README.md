@@ -108,7 +108,7 @@ _A Common-Sense Guide to Data Structures and Algorithms_ by **Jay Wengrow** is a
 - [x] Chapter 5 — Optimizing Code with and Without Big O
 - [x] Chapter 6 — Optimizing for Optimistic Scenarios
 - [x] Chapter 7 — Big O in Everyday Code
-- [ ] Chapter 8 — Blazing Fast Lookup with Hash Tables
+- [x] Chapter 8 — Blazing Fast Lookup with Hash Tables
 - [ ] Chapter 9 — Crafting Elegant Code with Stacks and Queues
 - [ ] Chapter 10 — Recursively Recurse with Recursion
 - [ ] Chapter 11 — Learning to Write in Recursive
