@@ -104,7 +104,7 @@ _A Common-Sense Guide to Data Structures and Algorithms_ by **Jay Wengrow** is a
 - [x] Chapter 3 — Big O Notation
 - [x] Chapter 4 — Speeding Up Code with Big O
 - [x] Chapter 5 — Optimizing Code With & Without Big O
-- [ ] Chapter 6 — Optimizing for Optimistic Scenarios
+- [x] Chapter 6 — Optimizing for Optimistic Scenarios
 - [ ] Chapter 7 — Hash Tables
 - [ ] Chapter 8 — Stacks & Queues
 - [ ] Chapter 9 — Recursion
