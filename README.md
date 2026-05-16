@@ -16,18 +16,20 @@ My personal exercise solutions and notes while working through **[A Common-Sense
 ├── 04-speeding-up-code-with-big-o/
 ├── 05-optimizing-code-with-and-without-big-o/
 ├── 06-optimizing-for-optimistic-scenarios/
-├── 07-hash-tables/
-├── 08-stacks-and-queues/
-├── 09-recursion/
-├── 10-recursive-algorithms-for-speed/
+├── 07-big-o-in-everyday-code/
+├── 08-blazing-fast-lookup-with-hash-tables/
+├── 09-crafting-elegant-code-with-stacks-and-queues/
+├── 10-recursively-recurse-with-recursion/
 ├── 11-learning-to-write-in-recursive/
 ├── 12-dynamic-programming/
-├── 13-binary-search-trees/
-├── 14-heaps/
-├── 15-tries/
-├── 16-graphs/
-├── 17-space-constraints/
-└── 18-techniques-for-code-optimization/
+├── 13-recursive-algorithms-for-speed/
+├── 14-node-based-data-structures/
+├── 15-binary-search-trees/
+├── 16-heaps/
+├── 17-tries/
+├── 18-graphs/
+├── 19-dealing-with-space-constraints/
+└── 20-techniques-for-code-optimization/
 ```
 
 ---
@@ -101,19 +103,21 @@ _A Common-Sense Guide to Data Structures and Algorithms_ by **Jay Wengrow** is a
 
 - [x] Chapter 1 — Why Data Structures Matter
 - [x] Chapter 2 — Why Algorithms Matter
-- [x] Chapter 3 — Big O Notation
-- [x] Chapter 4 — Speeding Up Code with Big O
-- [x] Chapter 5 — Optimizing Code With & Without Big O
+- [x] Chapter 3 — O Yes! Big O Notation
+- [x] Chapter 4 — Speeding Up Your Code with Big O
+- [x] Chapter 5 — Optimizing Code with and Without Big O
 - [x] Chapter 6 — Optimizing for Optimistic Scenarios
-- [ ] Chapter 7 — Hash Tables
-- [ ] Chapter 8 — Stacks & Queues
-- [ ] Chapter 9 — Recursion
-- [ ] Chapter 10 — Recursive Algorithms for Speed
+- [ ] Chapter 7 — Big O in Everyday Code
+- [ ] Chapter 8 — Blazing Fast Lookup with Hash Tables
+- [ ] Chapter 9 — Crafting Elegant Code with Stacks and Queues
+- [ ] Chapter 10 — Recursively Recurse with Recursion
 - [ ] Chapter 11 — Learning to Write in Recursive
 - [ ] Chapter 12 — Dynamic Programming
-- [ ] Chapter 13 — Binary Search Trees
-- [ ] Chapter 14 — Heaps
-- [ ] Chapter 15 — Tries
-- [ ] Chapter 16 — Graphs
-- [ ] Chapter 17 — Space Constraints
-- [ ] Chapter 18 — Techniques for Code Optimization
+- [ ] Chapter 13 — Recursive Algorithms for Speed
+- [ ] Chapter 14 — Node-Based Data Structures
+- [ ] Chapter 15 — Speeding Up All the Things with Binary Search Trees
+- [ ] Chapter 16 — Keeping Your Priorities Straight with Heaps
+- [ ] Chapter 17 — It Doesn't Hurt to Trie
+- [ ] Chapter 18 — Connecting Everything with Graphs
+- [ ] Chapter 19 — Dealing with Space Constraints
+- [ ] Chapter 20 — Techniques for Code Optimization
