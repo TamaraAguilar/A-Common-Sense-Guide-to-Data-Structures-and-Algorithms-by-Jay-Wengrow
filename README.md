@@ -109,9 +109,9 @@ _A Common-Sense Guide to Data Structures and Algorithms_ by **Jay Wengrow** is a
 - [x] Chapter 6 — Optimizing for Optimistic Scenarios
 - [x] Chapter 7 — Big O in Everyday Code
 - [x] Chapter 8 — Blazing Fast Lookup with Hash Tables
-- [ ] Chapter 9 — Crafting Elegant Code with Stacks and Queues
-- [ ] Chapter 10 — Recursively Recurse with Recursion
-- [ ] Chapter 11 — Learning to Write in Recursive
+- [x] Chapter 9 — Crafting Elegant Code with Stacks and Queues
+- [x] Chapter 10 — Recursively Recurse with Recursion
+- [x] Chapter 11 — Learning to Write in Recursive
 - [ ] Chapter 12 — Dynamic Programming
 - [ ] Chapter 13 — Recursive Algorithms for Speed
 - [ ] Chapter 14 — Node-Based Data Structures
