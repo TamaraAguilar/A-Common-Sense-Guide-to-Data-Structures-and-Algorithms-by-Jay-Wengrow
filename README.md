@@ -113,7 +113,7 @@ _A Common-Sense Guide to Data Structures and Algorithms_ by **Jay Wengrow** is a
 - [x] Chapter 10 — Recursively Recurse with Recursion
 - [x] Chapter 11 — Learning to Write in Recursive
 - [x] Chapter 12 — Dynamic Programming
-- [ ] Chapter 13 — Recursive Algorithms for Speed
+- [x] Chapter 13 — Recursive Algorithms for Speed
 - [ ] Chapter 14 — Node-Based Data Structures
 - [ ] Chapter 15 — Speeding Up All the Things with Binary Search Trees
 - [ ] Chapter 16 — Keeping Your Priorities Straight with Heaps
